@@ -32,14 +32,14 @@ $(function () {
     tFlag = false,
     albums = [
       "For youth",
-      "Perfect",
+      "Đưa em về nhà",
       "Khi Em Lớn",
       "Đến Giờ Cơm ",
       "Chờ Đợi..."
     ],
     trackNames = [
       "BTS",
-      "Ed Sheeran",
+      "GREY D",
       "Orange",
       "Ái Phương",
       "Andiez"
@@ -47,7 +47,7 @@ $(function () {
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
       "https://github.com/Cam0411/music__3/raw/main/y2meta.com%20-%20BTS%20(%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8)%20%E2%80%98For%20Youth%E2%80%99%20Easy%20Lyrics%20(128%20kbps).mp3",
-      " https://github.com/Cam0411/music__3/blob/main/y2meta.com%20-%20Ed%20Sheeran%20-%20Perfect%20(Lyrics)%20(128%20kbps).mp3?raw=true",
+      " https://github.com/Cam0411/music_17/raw/main/y2mate.com%20-%20%C4%91%C6%B0a%20em%20v%E1%BB%81%20nh%C3%A0a%20%20GREY%20D%20%20Phi%C3%AAu%20Nh%E1%BB%8Bp%20Th%E1%BB%9F%20Music%20Show.mp3",
       "https://github.com/Cam0411/music__3/blob/main/KhiEmLonLofiVersion-OrangeHoangDungFreakD-7017258.mp3?raw=true",
       " https://github.com/Cam0411/music__3/blob/main/y2meta.com%20-%20%C4%90%E1%BA%BFn%20gi%E1%BB%9D%20c%C6%A1m%20-%20%C3%81i%20Ph%C6%B0%C6%A1ng%20(128%20kbps).mp3?raw=true",
       "https://github.com/Cam0411/music__3/blob/main/ChoDoiCoDangSo-Andiez-6332589.mp3?raw=true"
